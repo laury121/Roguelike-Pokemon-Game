@@ -1,2 +1,3 @@
 # Roguelike-Pokemon-Game
-Pokemon game originally developed in C and later ported to C++, demonstrating the evolution of the project across both languages
+This project contains two implementations of a Pokemon game. The original implementation was developed in C and was later ported to C++ and continued. 
+The c and cpp branches have their respective implementations.
